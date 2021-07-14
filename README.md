@@ -7,7 +7,7 @@
 
 ### About me :eyes:
 
-- :dart: Full Stack Development | Machine learning | Deep learning |Image Processing and Computer vision | Big data | Natural Language Processing   
+- :dart: Artificial Intelligence | Machine learning | Deep learning |Image Processing and Computer vision | Natural Language Processing    
 - :e-mail: Ask me about anything ; **faisal.cse16.kuet@gmail.com**
 
 ![Faisal's github stats](https://github-readme-stats.vercel.app/api?username=FaisalAhmedBijoy&show_icons=true&hide_border=false)
@@ -47,9 +47,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Deep Learning and Computer Vision
-- 🌱 I’m currently learning ... Graph Neural Networks, Generative Models, Image Caption Generation
-- 👯 I’m looking to collaborate on ...Deep Learning
+- 🔭 I’m currently working on Deep Learning and Computer Vision
+- 🌱 I’m currently learning Graph Neural Networks, Generative Models, Image Caption Generation
+- 👯 I’m looking to collaborate on Deep Learning
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
