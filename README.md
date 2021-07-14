@@ -1,4 +1,3 @@
-# faisalahmedbijoy.github.io
 
 ### Hey 👋, I'm **[Faisal Ahmed Bijoy](https://www.linkedin.com/in/faisal-ahmed-2a71581b1/)** 👨‍💻
 
