@@ -3,7 +3,7 @@
 
 
 
-👨‍🎓 B.Sc. in Computer Science and Engineering from the **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd)** 
+👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd)** 
 
 ### About me :eyes:
 
