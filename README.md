@@ -7,7 +7,7 @@
 
 ### About me :eyes:
 
-- :dart: Artificial Intelligence | Machine learning | Deep learning |Image Processing and Computer vision | Natural Language Processing    
+- :dart: Artificial Intelligence | Machine learning | Deep learning | Image Processing and Computer vision | Natural Language Processing    
 - :e-mail: Ask me about anything ; **faisal.cse16.kuet@gmail.com**
 
 ![Faisal's github stats](https://github-readme-stats.vercel.app/api?username=FaisalAhmedBijoy&show_icons=true&hide_border=false)
