@@ -7,7 +7,7 @@
 
 ### About me :eyes:
 
-- Associate AI Enginner | Next Solution Lab
+- Associate AI Enginner | Next Solution Lab | Dhaka, Bagladesh
 - :dart: Artificial Intelligence | Machine learning | Deep learning | Image Processing and Computer vision | Natural Language Processing    
 - :e-mail: Ask me about anything ; **faisal.cse16.kuet@gmail.com**
 
