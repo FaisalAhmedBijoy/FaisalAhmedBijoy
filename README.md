@@ -15,6 +15,8 @@
 ## My Stats
 [![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAhmedBijoy&theme=merko)](https://github.com/FaisalAhmedBijoy/github-readme-stats&?theme=dark)
 
+## Streak Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAhmedBijoy&theme=merko" alt="FaisalAhmedBijoy"  /> 
 
 ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=FaisalAhmedBijoy&theme=github" alt="FaisalAhmedBijoy" /></p> 
