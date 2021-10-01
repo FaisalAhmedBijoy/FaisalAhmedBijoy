@@ -15,6 +15,10 @@
 ## My Stats
 [![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAhmedBijoy&theme=merko)](https://github.com/FaisalAhmedBijoy/github-readme-stats&?theme=dark)
 
+
+## Contribution Graph
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=FaisalAhmedBijoy&theme=github" alt="FaisalAhmedBijoy" /></p> 
+
 ### Languages and Tools :computer:
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Dream-kid)](https://github.com/FaisalAhmedBijoy) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Dream-kid)](https://github.com/FaisalAhmedBijoy) [![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/FaisalAhmedBijoy) [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
