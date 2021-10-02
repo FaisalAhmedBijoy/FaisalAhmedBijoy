@@ -42,10 +42,19 @@
 [![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat&logo=mysql&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy)
 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
-[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
+[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat&logo=pytorch&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
+[![OpenCV](https://img.shields.io/badge/-OpenCV-gray?style=flat&logo=opencv&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
+[![NLTK](https://img.shields.io/badge/-NLTK-red?style=flat&logo=nltk&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
+[![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat&logo=opegl&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
+[![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
 
+
+[![Logisim](https://img.shields.io/badge/-Logisim-black?style=flat&logo=logisim&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
+[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat&logo=arduino&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberrypi-black?style=flat&logo=raspberrypi&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/FaisalAhmedBijoy)](https://gitlab.com/FaisalAhmedBijoy)
