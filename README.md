@@ -61,21 +61,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy)
 
 
-
-
-
-
-<!--
-**FaisalAhmedBijoy/FaisalAhmedBijoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Deep Learning and Computer Vision
-- 🌱 I’m currently learning Graph Neural Networks, Generative Models, Image Caption Generation
-- 👯 I’m looking to collaborate on Deep Learning
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
