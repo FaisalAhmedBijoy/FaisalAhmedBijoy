@@ -23,6 +23,9 @@
 ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=FaisalAhmedBijoy&theme=github" alt="FaisalAhmedBijoy" /></p> 
 
+## Profile View
+![Profile views](https://gpvc.arturio.dev/FaisalAhmedBijoy)
+
 ### Languages and Tools :computer:
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Dream-kid)](https://github.com/FaisalAhmedBijoy) 
