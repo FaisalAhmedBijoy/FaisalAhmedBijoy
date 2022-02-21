@@ -13,6 +13,7 @@
 - :dart: Research Interest | Artificial Intelligence | Machine learning | Deep learning | Image Processing and Computer vision | Natural Language Processing    
 - :e-mail: Ask me about anything ; **faisal.cse16.kuet@gmail.com**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahmedbijoy&layout=compact)](https://github.com/faisalahmedbijoy/github-readme-stats)
 
 ## My Stats
 [![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAhmedBijoy&theme=merko)](https://github.com/FaisalAhmedBijoy/github-readme-stats&?theme=dark)
