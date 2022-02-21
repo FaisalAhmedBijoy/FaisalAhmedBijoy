@@ -15,6 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahmedbijoy&layout=compact)](https://github.com/faisalahmedbijoy/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahmedbijoy&layout=compact)](https://github.com/faisalahmedbijoy/github-readme-stats)
+
 ## My Stats
 [![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaisalAhmedBijoy&theme=merko)](https://github.com/FaisalAhmedBijoy/github-readme-stats&?theme=dark)
 
