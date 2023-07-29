@@ -25,8 +25,7 @@
 ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=FaisalAhmedBijoy&theme=github" alt="FaisalAhmedBijoy" /></p> 
 
-## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalahmedbijoy&layout=default)](https://github.com/faisalahmedbijoy/github-readme-stats)
+
 
 ## Profile View
 ![Profile views](https://gpvc.arturio.dev/FaisalAhmedBijoy)
