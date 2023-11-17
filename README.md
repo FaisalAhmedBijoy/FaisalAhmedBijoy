@@ -22,13 +22,8 @@
 ## Streak Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaisalAhmedBijoy&theme=merko" alt="FaisalAhmedBijoy"  /> 
 
-## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=FaisalAhmedBijoy&theme=github" alt="FaisalAhmedBijoy" /></p> 
 
 
-
-## Profile View
-![Profile views](https://gpvc.arturio.dev/FaisalAhmedBijoy)
 
 ### Languages and Tools :computer:
 
